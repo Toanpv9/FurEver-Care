@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
 import "./NavBar.css";
-import logo from "./assets/unnamed (3).png";
+import logo from "./assets/logo-2.png";
 
 const NavBar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -128,4 +128,5 @@ const NavBar = () => {
 };
 
 export default NavBar;
+
 
