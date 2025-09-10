@@ -1,0 +1,44 @@
+.hero {
+  position: relative;
+  height: 100vh;
+  min-height: 600px;
+  overflow: hidden;
+}
+
+
+.hero-slide {
+  position: relative;
+}
+
+
+.hero-slide .img {
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+
+.hero .overlay::before {
+  background: rgba(0, 0, 0, 0.05); 
+}
+
+
+
+.hero .heading {
+  color: #fff;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.form-search {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.form-search input {
+  border-radius: 0;
+}
+
+.form-search button {
+  border-radius: 0;
+}

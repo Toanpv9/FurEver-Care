@@ -1,0 +1,35 @@
+.site-header {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+ 
+  height: 50vh;      
+  min-height: 300px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.site-header .container {
+  position: relative;
+  z-index: 2;
+}
+
+.site-header::before {
+
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.header-title {
+  color: #fff;
+  font-size: 48px;
+  font-weight: bold;
+  z-index: 3;
+  position: relative;
+}
