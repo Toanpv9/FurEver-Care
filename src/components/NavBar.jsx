@@ -37,12 +37,6 @@ const NavBar = () => {
 
         <div className={`collapse navbar-collapse ${isMenuOpen ? "show" : ""}`}>
           <ul className="navbar-nav ms-auto">
-            {/* Home */}
-            <li className="nav-item">
-              <NavLink to="/" className={({ isActive }) => (isActive ? "nav-link active" : "nav-link")}>
-                Home
-              </NavLink>
-            </li>
 
             {/* About */}
             <li className="nav-item">
@@ -134,3 +128,4 @@ const NavBar = () => {
 };
 
 export default NavBar;
+
