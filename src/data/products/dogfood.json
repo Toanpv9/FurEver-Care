@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Bairo Adult Chicken & Vegetables Dog Food",
+    "description": "Bairo® Premium Dog Food is specially formulated to support your dog’s overall health and well-being. Enriched with essential nutrients, it provides complete and balanced nutrition to keep your furry friend active, strong, and full of energy. Immune health is maintained with a blend of essential vitamins and minerals that help strengthen your dog’s natural defenses. Joint and bone health is supported by guaranteed levels of glucosamine and calcium, ensuring strong bones and flexible joints.For digestive health, a combination of prebiotics, probiotics, and healthy fiber works to promote a well-functioning digestive system. Crunchy kibble helps clean teeth, while calcium and phosphorus contribute to strong teeth and gums, ensuring fresh breath and oral hygiene.A healthy skin and coat are achieved with guaranteed levels of Omega-3 and Omega-6 fatty acids, which nourish the skin and promote a shiny, lustrous coat.Optimal blend of Omega-3 and Omega-6 is proven to enhance coat health, while firm stool quality and sustained energy levels ensure your pet stays happy and active throughout the day.",
+    "images": ["/images/Purina1.jpg","/images/Purina1-2.jpg","/images/Purina2.jpg","/images/Purina2-2.jpg","/images/Purina6.jpg"],
+    "quantities": [
+      {
+        "size": "1.1kg",
+        "price_tax_include": 248,
+        "images": ["/images/Bairo1.jpg","/images/Bairo2.jpg"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Basil Biscuits Adult Non-Veg",
+    "description": "Basil Adult Non-Veg Biscuits offer pet owners a premium choice for their furry friends, ensuring top-notch nutrition without any compromise on quality. These biscuits are crafted with the utmost care, using only the finest ingredients to meet all your pet’s nutritional needs. Free from additives and impurities, Basil biscuits are baked with love under strict supervision to preserve their nutritional value. Each ingredient is thoughtfully sourced to provide exceptional taste and easy acceptance by pets. Adhering to international standards, Basil guarantees a high-quality product that supports your pet’s health and happiness.",
+    "images":["/images/Basil1.jpg","/images/Basil2.jpg","/images/Basil3.jpg","/images/Basil4.jpg","/images/Basil5.jpg"],
+    "quantities": [
+      { "size": "900mg", "price_tax_include": 194 },
+      { "size": "1.8kg", "price_tax_include": 351 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Bairo Adult Meat & Rice Dog Food",
+    "description": "Give your dog the balanced nutrition they deserve with Bairo® Premium Dog Food. Specially formulated with essential vitamins, minerals, and high-quality ingredients, this recipe supports overall health, energy, and well-being.Immune health is supported by a rich blend of essential vitamins and minerals that help strengthen your dog’s immune system. Joint and bone support is enhanced with guaranteed levels of glucosamine and calcium, promoting strong bones and flexible joints.Healthy digestion is ensured with a combination of prebiotics, probiotics, and fiber, aiding digestion and supporting gut health. The crunchy kibble helps maintain oral hygiene by keeping teeth clean, while calcium and phosphorus contribute to strong teeth and gums.A shiny coat and healthy skin are maintained with the inclusion of Omega-3 and Omega-6 fatty acids, promoting a glossy and nourished appearance.Bairo® is dedicated to providing wholesome, nourishing meals that keep your dog active, happy, and healthy. With an optimal blend of nutrients, this formula supports muscle strength, energy levels, and overall vitality, so your pet can enjoy every day to the fullest.",
+    "images": ["/images/Bairo-Adult1.jpg","/images/Bairo-Adult2.jpg"],
+    "quantities": [
+      { "size": "1.1kg", "price_tax_include": 237 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bairo Puppy Chicken & Milk Dog Food",
+    "description": "Bairo® Premium Food is specially formulated to support your puppy’s overall health and well-being. Enriched with essential nutrients, it provides complete and balanced nutrition to keep your furry friend active, strong, and full of energy.Immune health is maintained with a blend of essential vitamins and minerals that help strengthen your dog’s natural defenses. Joint and bone health is supported by guaranteed levels of glucosamine and calcium, ensuring strong bones and flexible joints.For digestive health, a combination of prebiotics, probiotics, and healthy fiber works to promote a well-functioning digestive system. Crunchy kibble helps clean teeth, while calcium and phosphorus contribute to strong teeth and gums, ensuring fresh breath and oral hygiene.A healthy skin and coat are achieved with guaranteed levels of Omega-3 and Omega-6 fatty acids, which nourish the skin and promote a shiny, lustrous coat.Optimal blend of Omega-3 and Omega-6 is proven to enhance coat health, while firm stool quality and sustained energy levels ensure your pet stays happy and active throughout the day.",
+    "images": ["/images/Bairo-Puppy-Chicken-Milk-Front.jpg","/images/Bairo-Puppy-Chicken-Milk-Back.jpg"],
+    "quantities": [
+      { "size": "1.1kg", "price_tax_include": 258 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Basil Biscuits Puppy Non-Veg",
+    "description": "Every pet owner wants to give their pets the best nutrition at no quality compromise so as to make their pets healthy and happy. By selecting BASIL biscuits they are assured to get all the necessary requirements in one product as our products are free from all doubts and complete on purity. Basil biscuits are high on nutrition and made using best ingredients with pure intention of Pet Welfare. They are baked with love and care under supervision to avoid any loss in nutrition. The ingredients going into them are sourced with care to give the best taste for easy acceptance by pets. We work on international standards to provide our clients with best in class products.",
+    "images": ["/images/Basil_1.jpg","/images/Basil_2.jpg","/images/Basil_3.jpg","/images/Basil_4.jpg"],
+    "quantities": [
+      { "size": "900mg", "price_tax_include": 180 },
+      { "size": "1.8kg", "price_tax_include": 3383 }
+    ]
+  }
+]
