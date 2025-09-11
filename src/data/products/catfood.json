@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Purina Friskies Dry Cat Food: Delightful Surfin' Selections",
+    "description": "Treat your kitty to a nutritious blend from land and sea with Friskies Surfin' Favorites Dry Cat Food. This kibble features an irresistible mix of real chicken, ocean whitefish, salmon, and filet mignon in every crunchy bite, designed to satisfy even the most discerning feline palate. Friskies Surfin' Favorites offers complete and balanced nutrition, enriched with calcium and Vitamin D for strong bones and teeth, antioxidants to boost immune health, and taurine for clear vision, ensuring your furry friend purrs with delight at mealtime.",
+    "images": ["/images/Purina1.jpg","/images/Purina1-2.jpg","/images/Purina2.jpg","/images/Purina2-2.jpg","/images/Purina6.jpg"],
+    "quantities": [
+      {
+        "size": "1kg",
+        "price_tax_include": 330,
+        "images": ["/images/Purina1.jpg","/images/Purina1-2.jpg"]
+      },
+      {
+        "size": "2.5kg",
+        "price_tax_include": 968,
+        "images":["/images/Purina2.jpg","/images/Purina2-2.jpg"]
+      },
+      {
+        "size": "6kg",
+        "price_tax_include": 2099,
+        "images":["/images/Purina6.jpg"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Royal Canin Mother & Babycat Dry Cat Food",
+    "description": "ROYAL CANIN Mother & Babycat is meticulously formulated to meet the specific nutritional needs of both nursing queens and their kittens. Suitable for pregnant or lactating queens and kittens aged 1-4 months, this food features a patented antioxidant complex to bolster the kittens' natural defenses. The kibble's soft texture is tailored for easy chewing and swallowing, aiding the kittens in transitioning to solid food.",
+    "images":["/images/Royal1.jpg","/images/Royal2.jpg","/images/Royal3.jpg","/images/Royal4.jpg","/images/Royal5.jpg"],
+    "quantities": [
+      { "size": "400mg", "price_tax_include": 570 },
+      { "size": "1.2kg", "price_tax_include": 1290 },
+      { "size": "2kg", "price_tax_include": 2520 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Me-O Tuna Adult Dry Cat Food",
+    "description": "Me-O Tuna Adult Dry Cat Food stands as the optimal choice for nurturing your cherished feline companion and enhancing their overall health. Meticulously formulated with essential nutrients, this premium cat food ensures a comprehensive and balanced diet tailored specifically to meet their unique needs. It provides complete and balanced nutrition, supporting overall well-being. With a low-sodium formulation, it aids in maintaining heart and kidney health, reducing the likelihood of high blood pressure, kidney issues, and heart disease in cats.",
+    "images": ["/images/Me-O1.jpg","/images/Me-O2.jpg","/images/Me-O3.jpg","/images/Me-O4.jpg"],
+    "quantities": [
+      { "size": "450mg", "price_tax_include": 180 },
+      { "size": "1.2kg", "price_tax_include": 420 },
+      { "size": "3kg", "price_tax_include": 909 },
+      { "size": "7kg", "price_tax_include":1962 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Me-O Canned Tuna",
+    "description": "Me-O Cat Food offers a meticulously balanced and complete diet for cats, ensuring high digestibility and a taste that cats adore. Made with real sardine and tuna, it supports overall feline health by preventing bladder stones, nourishing skin and coat, and reducing the risks of high blood pressure, kidney, and heart diseases. Additionally, this diet promotes optimal eyesight, boosts immune function, and strengthens teeth and bones, ensuring cats thrive on every level.",
+    "images": ["/images/Me-Canned1.jpg","/images/Me-Canned2.jpg","/images/Me-Canned3.jpg","/images/Me-Canned4.jpg"],
+    "quantities": [
+      { "size": "400mg", "price_tax_include": 835 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Farmina N&D Quinoa Urinary Adult Cat Dry Food",
+    "description": "Farmina N&D Quinoa Urine- Duck, Cranberry and Chamomile recipe is a complete food for cats, suggested for the reduction of struvite stone recurrence and feline lower urinary tract disease.94% of protein from animal origin, 0% artificial preservatives, 0% grain.Duck is rich in natural antioxidants, vitamins, minerals and omega-3 fatty acids.Stabilization of urine pH to 6.0 - 6.3 which helps to dissolve form struvite calculi in the alkaline pH of urine (greater than 7).Helps in Magnesium Deficiency (Mg) as Mg is the main constituent of struvite stones.",
+    "images": ["/images/Farmina.jpg","/images/Farmina2.jpg","/images/Farmina3.jpg","/images/Farmina4.jpg"],
+    "quantities": [
+      { "size": "1.5kg", "price_tax_include": 1987.85 }
+    ]
+  }
+]
